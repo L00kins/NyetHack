@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9244bcd8-85b4-4ff5-ac72-c64908058377" name="Default Changelist" comment="" />
+    <list default="true" id="9244bcd8-85b4-4ff5-ac72-c64908058377" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tavern.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tavern.kt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +18,9 @@
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SImjoakQZGV97RWk2XWOqPVeS7" />
   <component name="RunDashboard">
@@ -84,9 +91,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.TavernKt" />
+        <item itemvalue="Kotlin.GameKt" />
         <item itemvalue="Kotlin.OmKt" />
         <item itemvalue="Kotlin.SwordJugglerKt" />
-        <item itemvalue="Kotlin.GameKt" />
       </list>
     </recent_temporary>
   </component>
@@ -102,5 +109,18 @@
       <updated>1571259621674</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
